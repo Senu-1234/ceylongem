@@ -1,0 +1,48 @@
+@charset "utf-8";
+body img {
+}
+body p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+body table {
+    text-align: center;
+}
+
+
+
+body h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    color: rgba(5,69,84,1.00);
+}
+body table {
+    position: static;
+}
+.card.col-md-4.col-xl-12 .card-body .card-title {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.card.col-md-4.col-xl-12 .card-body .card-text {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.row .col-xl-6 .card.col-md-4.col-xl-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(193,238,219,1.00) 0%,rgba(91,184,150,1.00) 72.33%,rgba(3,106,81,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(193,238,219,1.00) 0%,rgba(91,184,150,1.00) 72.33%,rgba(3,106,81,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(193,238,219,1.00) 0%,rgba(91,184,150,1.00) 72.33%,rgba(3,106,81,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(193,238,219,1.00) 0%,rgba(91,184,150,1.00) 72.33%,rgba(3,106,81,1.00) 100.00%);
+}
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(220,241,240,1.00) 0%,rgba(101,162,163,1.00) 47.47%,rgba(6,82,73,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(220,241,240,1.00) 0%,rgba(101,162,163,1.00) 47.47%,rgba(6,82,73,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(220,241,240,1.00) 0%,rgba(101,162,163,1.00) 47.47%,rgba(6,82,73,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(220,241,240,1.00) 0%,rgba(101,162,163,1.00) 47.47%,rgba(6,82,73,1.00) 100.00%);
+}
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(149,251,255,1.00) 46.22%,rgba(2,70,66,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(149,251,255,1.00) 46.22%,rgba(2,70,66,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(149,251,255,1.00) 46.22%,rgba(2,70,66,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(149,251,255,1.00) 46.22%,rgba(2,70,66,1.00) 100.00%);
+    color: rgba(10,9,9,1.00);
+}
+body hr {
+}

@@ -1,0 +1,31 @@
+@charset "utf-8";
+body h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    color: rgba(3,45,94,1.00);
+}
+table tr table {
+}
+table tr table {
+    border-radius: 5%;
+    background-color: rgba(201,201,201,1.00);
+    width: 600px;
+}
+body center input {
+    border-width: 10px;
+}
+body center input {
+}
+center center input {
+    background-image: -webkit-linear-gradient(270deg,rgba(195,221,240,1.00) 0%,rgba(5,104,138,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(195,221,240,1.00) 0%,rgba(5,104,138,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(195,221,240,1.00) 0%,rgba(5,104,138,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(195,221,240,1.00) 0%,rgba(5,104,138,1.00) 100%);
+}
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(5,122,112,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(5,122,112,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(5,122,112,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(5,122,112,1.00) 100%);
+    color: rgba(0,19,19,1.00);
+}

@@ -1,0 +1,50 @@
+@charset "utf-8";
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(5,134,125,1.00) 68.08%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(5,134,125,1.00) 68.08%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(5,134,125,1.00) 68.08%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(5,134,125,1.00) 68.08%);
+    color: rgba(0,13,13,1.00);
+    border-color: rgba(2,88,87,1.00);
+}
+body h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}
+.dropdown.show .dropdown-menu {
+    padding-left: 50px;
+
+}
+.card.text-center.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: rgba(56,215,74,1.00);
+    text-shadow: 0px 0px rgba(2,95,15,1.00);
+}
+.card.text-center.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: rgba(4,133,64,1.00);
+}
+.col-lg-2 .card.text-center.col-md-4.col-lg-12 .card-header {
+    background-image: -webkit-linear-gradient(270deg,rgba(199,203,34,1.00) 0%,rgba(192,208,36,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(199,203,34,1.00) 0%,rgba(192,208,36,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(199,203,34,1.00) 0%,rgba(192,208,36,1.00) 100%);
+    border-radius: 10%;
+    background-image: linear-gradient(180deg,rgba(199,203,34,1.00) 0%,rgba(192,208,36,1.00) 100%);
+}
+center .row .col-lg-2 {
+
+}
+.row .col-lg-2 .card.text-center.col-md-4.col-lg-12 {
+    background-color: rgba(214,214,214,1.00);
+}
+.col-lg-2 .card.text-center.col-md-4.col-lg-12 .card-header {
+    background-image: -webkit-linear-gradient(270deg,rgba(239,218,183,1.00) 0%,rgba(227,171,5,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(239,218,183,1.00) 0%,rgba(227,171,5,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(239,218,183,1.00) 0%,rgba(227,171,5,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(239,218,183,1.00) 0%,rgba(227,171,5,1.00) 100%);
+}
+
+
+.col-lg-2 .card.text-center.col-md-4.col-lg-12 .card-body {
+    background-color: rgba(160,160,160,1.00);
+}
+.row .col-lg-2 .card.text-center.col-md-4.col-lg-12 {
+}
